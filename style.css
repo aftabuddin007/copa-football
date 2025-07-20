@@ -152,6 +152,13 @@ ul li{
     margin: 0 auto;
    
 }
+.pt{
+    font-weight:800;
+    font-style: 4rem;
+    color: black;
+    text-align: center;
+    margin-bottom: 50px;
+}
 
     
 
